@@ -13,7 +13,7 @@
         "prettier": "prettier --write ."
     },
     "keywords": [],
-    "author": "Marvin Splitt",
+    "author": "Afnan Mohannad",
     "license": "ISC",
     "dependencies": {
         "express": "^4.17.1",
